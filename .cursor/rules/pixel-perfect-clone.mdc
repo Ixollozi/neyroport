@@ -1,0 +1,14 @@
+---
+description: Neyroport 1:1 — no double header; capture Strategy A/B
+alwaysApply: true
+---
+
+# 1:1 clone (Neyroport) — chrome + QA
+
+1. Load `pixel-perfect-clone` (+ `CHROME.md`).
+2. **Double header is a ship blocker.** `PageShot` / `full.png` / hero stills must not include sticky nav if `SiteHeader` is visible.
+3. Preferred: capture with site header+footer hidden; keep live `SiteHeader`. Shot mode may hide footer if footer is in PNG — never leave both.
+4. Scripts: `web/scripts/*audit*`, `pull-full-pages.mjs`, `capture-fx-scrub.mjs` — when capturing for PageShot, hide **site** sticky header, not only chat widgets.
+5. Effects = `fx-scrub` (2556px). Inner routes = chrome-clean full PNG or DOM.
+6. Before marking done: open `/ru/about-tlns` (and other shot pages) — if nav text looks doubled, fix chrome policy first.
+7. Thresholds: top ≥95%, mid ≥90%, frames/fx ≥90%.

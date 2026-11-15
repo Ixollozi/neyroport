@@ -1,0 +1,16 @@
+---
+description: Neyroport web stack conventions
+globs: web/**/*.{ts,tsx,css,mjs}
+alwaysApply: false
+---
+
+# Neyroport web
+
+- App: `web/` — Next.js App Router, next-intl (`uz` default, `ru`), Tailwind v4
+- Measured CSS tokens / hero: `web/src/app/globals.css`
+- Home: `HomePage` + `EffectsStack` scrub + `SectionShot`
+- Inner pages: `ShotPage` / `PageShot` + `getPageBands` from `public/media/pages/manifest.json`
+- Shot mode: `body.np-shot-mode` — **Strategy B today:** hide live header+footer when PNG includes chrome; migrate captures to Strategy A (no chrome in PNG + live header)
+- Never stack live `SiteHeader` on a full-page screenshot that already shows nav
+- Leads: `/api/leads` + token admin — do not break while doing visual clone work
+

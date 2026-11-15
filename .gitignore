@@ -1,0 +1,28 @@
+# dependencies and build
+node_modules/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+
+# secrets
+.env
+.env.*
+!.env.example
+
+# logs and OS junk
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.DS_Store
+Thumbs.db
+
+# QA dumps and retired full-page screenshots
+web/public/media/ref/
+web/public/media/pages/
+web/public/media/pulled/
+
+# local media archive; the app serves copies from web/public/media
+/media/

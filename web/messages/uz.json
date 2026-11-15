@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "title": "NeyroPort — neyrostimulyator-trenajyor | Oʻzbekiston",
+    "description": "Dori va jarrohliksiz asab tizimini tiklash. Translingual neyrostimulyatsiya usuli."
+  },
+  "nav": {
+    "method": "Usul haqida",
+    "diseases": "Kasalliklar",
+    "useful": "Foydali",
+    "reviews": "Sharhlar",
+    "faq": "Savol-javob",
+    "buy": "Sotib olish",
+    "ask": "Savol berish",
+    "about": "Kompaniya",
+    "rent": "Ijara",
+    "news": "Yangiliklar",
+    "places": "Qayerda ishlatiladi",
+    "contacts": "Aloqa"
+  },
+  "hero": {
+    "title": "Siz va yaqinlaringiz uchun toʻliq hayot",
+    "subtitle": "Dori va jarrohliksiz asab tizimini tez tiklash. Elektr impulslari yordamida samarali reabilitatsiya."
+  },
+  "diseasesSection": {
+    "title": "Samarali reabilitatsiya",
+    "brand": "NeyroPort",
+    "all": "Barcha kasalliklar"
+  },
+  "product": {
+    "feelings": "His-tuygʻular",
+    "feelingsText": "Effekt kuchli gazlangan ichimlik pufakchalari chaqishiga oʻxshaydi.",
+    "ages": "Kattalar va bolalar uchun",
+    "agesText": "Anatomiyaga mos til plastinasini tanlang.",
+    "method": "Translingual neyrostimulyatsiya",
+    "unique": "Noyob usul",
+    "priceLabel": "Narxi",
+    "price": "69 900 ₽ dan",
+    "priceNote": "Qurilma 1 oyda oʻzini oqlaydi.",
+    "train": "Uyda yoki shifokor nazoratida mashq qiling",
+    "course": "1 seans = 20 daqiqa · kuniga 1–2 seans · kursga 10–20 seans · 1–3 oy tanaffus",
+    "courseBadge": "kurs 20 kungacha",
+    "approved": "NeyroPort klinik sinovlardan oʻtgan va qoʻllashga tavsiya etilgan.",
+    "cert": "Roʻyxatdan oʻtish guvohnomasi",
+    "certNo": "№ РЗН 2020/12347"
+  },
+  "effects": {
+    "title": "Qoʻllash effektlari",
+    "body": "TLNS natijasida bosh miya nervlari, miyacha, poʻstloq va poʻstloq osti tuzilmalari yaxshilanadi, uyqu/uygʻoqlik va mushak tonusi tartibga solinadi.",
+    "whyTitle": "Nega til?",
+    "whyBody": "Tilda retseptorlar eng zich joylashgan va u miya poyasiga eng qisqa tabiiy yoʻldir.",
+    "neuroTitle": "Neyroplastika — fantastikami?",
+    "neuroBody": "Translingual neyrostimulyatsiya (TLNS) — til uchi nerv tugunlari orqali markaziy asab tizimiga taʼsir: harakat va tafakkur buzilishlarida reabilitatsiya.",
+    "readMore": "TLNS usuli haqida"
+  },
+  "restore": {
+    "eyebrow": "kompleks tiklanish",
+    "items": [
+      "Reabilitatsiyani tezlashtirish",
+      "Artikulyatsiya va nutq",
+      "Mayda motorika",
+      "Muvozanat va koordinatsiya",
+      "Harakat faolligi",
+      "Oʻz-oʻziga xizmat",
+      "Hissiyot nazorati",
+      "Natijalarning barqarorligi"
+    ]
+  },
+  "devices": {
+    "base": "NeyroPort",
+    "baseDesc": "Foiz ekranisiz",
+    "plus": "NeyroPort Plus",
+    "plusDesc": "Foiz ekrani bilan",
+    "more": "Qurilma haqida batafsil"
+  },
+  "reviews": {
+    "title": "Bizga ishonishadi",
+    "eyebrow": "sharhlar",
+    "all": "Barchasini oʻqish",
+    "doctors": "Shifokorlar",
+    "clients": "Mijozlar"
+  },
+  "stats": {
+    "title": "Tajriba bilan isbotlangan",
+    "subtitle": "Klinikada TLNS usulini kattalar va bolalar reabilitatsiyasida qoʻllash boʻyicha tadqiqot oʻtkazilgan.",
+    "neg": "yomonlashuv, salbiy effektlar",
+    "pos": "bemorlar ijobiy effekt sezgan",
+    "weak": "effekt yoʻq yoki zaif ijobiy effekt"
+  },
+  "places": {
+    "title": "NeyroPort qayerda ishlatiladi",
+    "eyebrow": "muassasalar",
+    "all": "Barchasini koʻrish",
+    "clinics": "Klinikalar va markazlar",
+    "where": "neyroport bilan ishlaydiganlar"
+  },
+  "cta": {
+    "ask": "Mutaxassisga savol berish",
+    "tg": "Telegram orqali bogʻlanish",
+    "max": "Max orqali bogʻlanish",
+    "allContacts": "Barchasini koʻrish"
+  },
+  "footer": {
+    "company": "«Kelajak tibbiy texnologiyalari» MChJ — Oʻzbekistondagi vakolatxona",
+    "privacy": "Maxfiylik siyosati",
+    "terms": "Foydalanuvchi shartnomasi",
+    "requisites": "Rekvizitlar"
+  },
+  "lead": {
+    "title": "Savol berish",
+    "name": "Ism",
+    "phone": "Telefon",
+    "message": "Xabar",
+    "consent": "Shaxsiy maʼlumotlarni qayta ishlashga roziman",
+    "submit": "Yuborish",
+    "success": "Rahmat! Tez orada bogʻlanamiz.",
+    "error": "Yuborilmadi. Qayta urinib koʻring yoki Telegramga yozing."
+  },
+  "contacts": {
+    "subtitle": "Menejer bilan telefon, email yoki ariza orqali bogʻlaning."
+  },
+  "legal": {
+    "privacyIntro": "Ushbu siyosat saytdan foydalanish va arizalar yuborishda shaxsiy maʼlumotlarni qayta ishlash tartibini tavsiflaydi.",
+    "termsIntro": "Saytdan foydalanish orqali foydalanuvchi shartnomasi shartlariga rozilik bildirasiz.",
+    "privacyPlaceholder": "Maxfiylik siyosatining toʻliq matni keyingi bosqichda asl saytdan koʻchiriladi.",
+    "termsPlaceholder": "Foydalanuvchi shartnomasining toʻliq matni keyingi bosqichda asl saytdan koʻchiriladi."
+  },
+  "common": {
+    "close": "Yopish",
+    "menu": "Menyu",
+    "readMore": "Batafsil",
+    "back": "Orqaga"
+  }
+}
